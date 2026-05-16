@@ -1,0 +1,325 @@
+UNIT_START
+COMP2400
+law
+REVIEW_START
+UNIT
+5
+Very well structured unit. The case studies are highly relevant and engaging.
+1 3 2026
+2
+One of the best units in the degree!
+Really enjoyed the contract law section.
+REVIEW_END
+REVIEW_START
+UNIT
+3
+Interesting content but the readings are very dense. Start them early each week.
+15 3 2026
+1
+Agreed, the weekly reading load is heavy but worth it.
+REVIEW_END
+REVIEW_START
+STAFF
+5
+Professor Hart is incredibly knowledgeable and makes complex legal concepts accessible.
+2 3 2026
+Dr. Emily Hart
+LECTURER
+Law
+2
+Best law lecturer I have had at MQ.
+Always takes time to answer student questions thoroughly.
+REVIEW_END
+REVIEW_START
+STAFF
+4
+The tutor ran engaging tutorials and encouraged great group discussion.
+10 3 2026
+James Nguyen
+TUTOR
+Law
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+4
+The moot assignment was challenging but excellent preparation for real legal work.
+20 4 2026
+Moot Court Assignment
+ASSIGNMENT
+3
+Very different to anything else I had done before, give yourself plenty of time.
+1
+Practice your oral argument out loud before the session.
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+3
+The mid-semester exam was fair but covered a lot of content. Revise everything.
+5 4 2026
+Mid-Semester Exam
+EXAM
+4
+Make sure you know the key cases by heart.
+0
+REVIEW_END
+UNIT_END
+UNIT_START
+COMP1010
+Fundamentals of Computer Science
+REVIEW_START
+UNIT
+4
+Great introductory unit. The content is well-paced and the labs are very helpful.
+15 3 2025
+2
+Really helped me build a solid foundation!
+Agreed, I learned so much from this unit.
+REVIEW_END
+REVIEW_START
+UNIT
+2
+The lectures move a bit too fast for beginners. More examples would be helpful.
+22 4 2025
+1
+I felt the same way at the start but it gets better.
+REVIEW_END
+REVIEW_START
+STAFF
+5
+Dr. Smith is an amazing lecturer. Very clear explanations and always available during office hours.
+10 3 2025
+Dr. John Smith
+LECTURER
+Computing
+2
+Totally agree, best lecturer I have had!
+Office hours were super helpful.
+REVIEW_END
+REVIEW_START
+STAFF
+3
+The tutor was okay but sometimes seemed unprepared for the questions students asked.
+18 4 2025
+Alice Johnson
+TUTOR
+Computing
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+4
+The assignment was challenging but fair. Good way to test understanding of the material.
+5 4 2025
+Assignment 1
+ASSIGNMENT
+3
+The rubric could have been clearer but overall a good task.
+1
+Make sure to start early, it takes longer than it looks!
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+3
+The final exam was very tough. Some questions felt outside the scope of what was taught.
+20 6 2025
+Final Exam
+EXAM
+4
+Be careful with time management during this exam.
+0
+REVIEW_END
+UNIT_END
+UNIT_START
+COMP1151
+Introduction to Game Development
+REVIEW_START
+UNIT
+5
+Absolutely loved this unit. Hands-on from day one and the projects are really fun to build.
+5 2 2025
+2
+Best unit I have taken so far. Highly recommend.
+Changed my career goals after taking this unit!
+REVIEW_END
+REVIEW_START
+UNIT
+3
+Good content but the jump in difficulty between early and later weeks is steep.
+18 3 2025
+1
+Watch the lecture recordings again for the harder weeks, it helps a lot.
+REVIEW_END
+REVIEW_START
+STAFF
+5
+Dr. Rivera is a fantastic lecturer who is clearly passionate about game development.
+6 2 2025
+Dr. Carlos Rivera
+LECTURER
+Computing
+2
+His enthusiasm is contagious. Makes every lecture enjoyable.
+Always happy to help students debug their game projects.
+REVIEW_END
+REVIEW_START
+STAFF
+4
+The tutor gave really useful feedback on our game builds during lab sessions.
+14 3 2025
+Sophie Turner
+TUTOR
+Computing
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+5
+The final game project was the highlight of the semester. Creative and technically challenging.
+10 5 2025
+Final Game Project
+ASSIGNMENT
+4
+Give yourself extra time for playtesting and polishing before submission.
+1
+Start building your core game loop first before adding extra features.
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+2
+The physics quiz had questions that were barely covered in lectures. Felt unfair.
+2 4 2025
+Physics Quiz
+QUIZ
+4
+Recommend reviewing external resources on game physics to fill the gaps.
+0
+REVIEW_END
+UNIT_END
+UNIT_START
+COMP2010
+Data Structures and Algorithms
+REVIEW_START
+UNIT
+5
+Excellent unit! Challenging but incredibly rewarding. One of the best units I have studied.
+12 2 2025
+1
+This unit really prepares you for technical interviews.
+REVIEW_END
+REVIEW_START
+UNIT
+3
+Interesting content but the workload is quite heavy. Plan your time carefully.
+28 3 2025
+0
+REVIEW_END
+REVIEW_START
+STAFF
+5
+Professor Lee is phenomenal. Makes complex algorithms easy to understand with great visualisations.
+14 2 2025
+Dr. Sarah Lee
+LECTURER
+Computing
+2
+Her explanations of graph algorithms were the clearest I have ever seen.
+Fantastic teacher, highly recommend taking any unit she teaches.
+REVIEW_END
+REVIEW_START
+STAFF
+4
+The tutor was very knowledgeable and gave great hints without just giving away the answers.
+3 4 2025
+Marcus Chen
+TUTOR
+Computing
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+5
+The linked list assignment was well-designed and really tested deep understanding.
+25 3 2025
+Assignment 2: Linked Lists
+ASSIGNMENT
+4
+Loved this assignment even though it was hard!
+1
+Start the recursive methods early, they are trickier than they look.
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+2
+The midterm quiz had some ambiguous questions. A few answers could be interpreted multiple ways.
+10 4 2025
+Midterm Quiz
+QUIZ
+3
+Hopefully the final is better worded.
+0
+REVIEW_END
+UNIT_END
+UNIT_START
+MATH1000
+Calculus
+REVIEW_START
+UNIT
+4
+Solid calculus unit. Covers all the fundamentals you need for more advanced mathematics.
+8 3 2025
+0
+REVIEW_END
+REVIEW_START
+UNIT
+2
+Very dry delivery of content. The unit needs more interactive elements to keep students engaged.
+14 4 2025
+1
+I suggest watching supplementary videos online to help understand the harder topics.
+REVIEW_END
+REVIEW_START
+STAFF
+4
+Professor Wong explains concepts clearly and is very patient with students who struggle.
+9 3 2025
+Dr. Wei Wong
+LECTURER
+Mathematics
+1
+Great at answering questions during lectures.
+REVIEW_END
+REVIEW_START
+STAFF
+3
+Tutor was fine but the tutorial sessions felt rushed. Not enough time to work through problems.
+21 4 2025
+Priya Patel
+TUTOR
+Mathematics
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+4
+The weekly quizzes are a great way to stay on top of the material.
+12 3 2025
+Weekly Quiz 3
+QUIZ
+2
+Short and focused, exactly what a weekly quiz should be.
+0
+REVIEW_END
+REVIEW_START
+ASSESSMENT
+3
+The final exam was fair but very long. Time management is key.
+15 6 2025
+Final Exam
+EXAM
+3
+Practice past papers to get used to the format.
+1
+Seriously, do the past papers. I cannot stress this enough.
+REVIEW_END
+UNIT_END
